@@ -15,6 +15,6 @@
 
 # Supported games
 * World of Warcraft - 
- * **Recomended settings:** Menu -> Interface -> Combat -> Do Not Flash Screen at Low Health 
+  * **Recomended settings:** Menu -> Interface -> Combat -> Do Not Flash Screen at Low Health 
 # WhishList
 Elder scrolls online
