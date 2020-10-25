@@ -12,3 +12,6 @@ Wow Addon: https://github.com/herisn23/razer-chroma-integration-binaries/blob/ma
 3) Wait until browser is opened if not then open manually http://localhost:7576
 4) Click start
 5) For exit, find tray icon, then rmb then exit 
+
+
+Elder scrolls online integration is in wishlist.
