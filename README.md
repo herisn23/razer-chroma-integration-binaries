@@ -3,7 +3,7 @@
 
 ## Requirements:
 
-**JDK11:** https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+[**JDK11** ](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 
 ## Installation
 1) Install addon
