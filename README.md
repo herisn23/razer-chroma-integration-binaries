@@ -14,6 +14,6 @@
 
 # Supported games
 World of Warcraft - **Addon** -> https://github.com/herisn23/razer-chroma-integration-binaries/blob/master/RazerChromaSupport.7z?raw=true
-
+  1) **Recomended:** Menu -> Interface -> Combat -> Do Not Flash Screen at Low Health 
 # WhishList
 Elder scrolls online
