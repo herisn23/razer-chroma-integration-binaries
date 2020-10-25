@@ -14,7 +14,7 @@
 5) For exit, find tray icon, then rmb then exit 
 
 # Supported games
-1) World of Warcraft - 
-  __Recomended settings__:** Menu -> Interface -> Combat -> Do Not Flash Screen at Low Health 
+* World of Warcraft - 
+ * **Recomended settings:** Menu -> Interface -> Combat -> Do Not Flash Screen at Low Health 
 # WhishList
 Elder scrolls online
