@@ -13,6 +13,8 @@
 4) Click start
 5) For exit, find tray icon, then rmb then exit 
 
+# Supported games
+World of Warcraft
 
 # WhishList
 Elder scrolls online
