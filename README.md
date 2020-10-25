@@ -4,7 +4,6 @@
 ## Requirements:
 
 **JDK11:** https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html \
-**Wow Addon:** https://github.com/herisn23/razer-chroma-integration-binaries/blob/master/RazerChromaSupport.7z?raw=true
 
 ## Installation
 1) Install addon
@@ -14,7 +13,7 @@
 5) For exit, find tray icon, then rmb then exit 
 
 # Supported games
-World of Warcraft
+World of Warcraft - Addon -> https://github.com/herisn23/razer-chroma-integration-binaries/blob/master/RazerChromaSupport.7z?raw=true
 
 # WhishList
 Elder scrolls online
