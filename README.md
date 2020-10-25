@@ -14,4 +14,4 @@
 5) For exit, find tray icon, then rmb then exit 
 
 
-# **Elder scrolls online integration is in wishlist.
+# Elder scrolls online integration is in wishlist.
