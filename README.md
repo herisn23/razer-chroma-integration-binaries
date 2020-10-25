@@ -1,4 +1,4 @@
-# razer-chroma-integration-binaries
+# Razer Chroma Integrator with unsupported games
 
 
 **Requirements:
@@ -14,4 +14,5 @@
 5) For exit, find tray icon, then rmb then exit 
 
 
-# Elder scrolls online integration is in wishlist.
+# WhishList
+Elder scrolls online
