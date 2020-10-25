@@ -13,7 +13,7 @@
 5) For exit, find tray icon, then rmb then exit 
 
 # Supported games
-World of Warcraft - Addon -> https://github.com/herisn23/razer-chroma-integration-binaries/blob/master/RazerChromaSupport.7z?raw=true
+World of Warcraft - **Addon** -> https://github.com/herisn23/razer-chroma-integration-binaries/blob/master/RazerChromaSupport.7z?raw=true
 
 # WhishList
 Elder scrolls online
