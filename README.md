@@ -9,5 +9,7 @@ Wow Addon: https://github.com/herisn23/razer-chroma-games-integration-addon
 
 
 Run start.cmd
+
 Wait until browser is opened if not then open http://localhost:7576
+
 Click start.
